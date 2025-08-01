@@ -2,7 +2,7 @@
 blue-team-lab
 # 🛡️ Defensive Security / Blue Team Portföyüm
 
-Merhaba! Bu repo, savunma güvenliği (Blue Team) alanındaki öğrenim sürecimi ve uygulamalı projelerimi içermektedir. Log analizi, SIEM kullanımı, IDS/IPS, olay müdahale ve güvenlik otomasyonu konularında yaptığım çalışmalara buradan ulaşabilirsiniz.
+ Bu repo, savunma güvenliği (Blue Team) alanındaki öğrenim sürecimi ve uygulamalı projelerimi içermektedir. Log analizi, SIEM kullanımı, IDS/IPS, olay müdahale ve güvenlik otomasyonu konularında yaptığım çalışmalara buradan ulaşabilirsiniz.
 
 ## 📌 İçerik Başlıkları
 
